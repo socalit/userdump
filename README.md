@@ -39,4 +39,12 @@ Output Structure
 
 ---
 
-Powered by [https://github.com/socalit](https://github.com/socalit)
+## Support
+
+### ⭐ **Star the GitHub repo**  
+### Share it with communities  
+### Open issues or request features  
+
+If this project saved you time or solved a problem, consider supporting development:
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=socal370xs&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)]
